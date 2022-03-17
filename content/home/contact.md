@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: shijie.li@nyu.edu
+  phone: 347 345 8208
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 370 Jay Street
+    city: Brooklyn
+    region: NY
+    postcode: '11201'
     country: United States
     country_code: US
   coordinates:
