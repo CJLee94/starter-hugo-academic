@@ -21,6 +21,7 @@ interests:
 - Computer Vision
 - Object Detection
 - Image Denoising
+- Machine Learning
 
 # Education to show in About widget
 education:
